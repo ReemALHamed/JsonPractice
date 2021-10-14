@@ -1,0 +1,53 @@
+{
+  "Users": [
+   {
+     "Name" : "Abdul",
+     "Age" : "21",
+     "Location" : "saudi Arabia",
+     "Blood group" : "B+",
+     "Mobile":{
+       "Phone":{
+        "Personal": "+00 9876543210" ,
+        "Home" : "044-482248682"
+       }
+     }
+   },
+   {
+     "Name" : "Rahman",
+     "Age" : "22",
+     "Location" : "South Africa",
+     "Blood group" : "A+",
+     "Mobile":{
+       "Phone":{
+        "Personal": "+00 9876234210" ,
+        "Home" :"044-872248682"
+       }
+     }
+   },
+   {
+     "Name" : "King",
+     "Age" : "32",
+     "Location" : "England",
+     "Blood group" : "B+",
+     "Mobile":{
+       "Phone":{
+        "Personal": "+00 9876542210" ,
+        "Home" : "044-9876542210"
+       }
+     }
+   },
+   {
+     "Name" : "Prince",
+     "Age" : "19",
+     "Location" : "saudi Arabia",
+     "Blood group" : "AB+",
+     "Mobile":{
+       "Phone":{
+        "Personal": "+00 3876543210" ,
+        "Home" : "044-182248682"
+       }
+     }
+   }
+  ]
+  
+}
